@@ -37,14 +37,14 @@ Requirements:
 
 1. Head to the Releases page of this website and download the DronesAnywhereVR Selector PC App (exe file)
 2. Run the exe file
-3. The app will open and look like this: ![a](images/img.png)
+3. The app will open and look like this: ![a](img.png)
 4. Open https://istreetview.com/ and find a location you want to go to
 5. Copy the panoID from the street view page by clicking the string
-![a](images/valid.png)
+![a](valid.png)
 6. Note, this won't work with all locations, specifically, this won't work for user uploaded panoramas shown here:
-![a](images/invalid.png)
+![a](invalid.png)
 7. You'll know a panoID is incorrect if it overflows the text box like this:
-![a](images/overflow.png)
+![a](overflow.png)
 8. Paste the panoID into the text box in the DronesAnywhereVR Selector App
 9. Click 'Submit' and wait until a MemberID is generated
 
@@ -71,4 +71,4 @@ Requirements:
 3. Check the length of the panoID before submitting (If it's too long and overflows the text box, it's likely incorrect)
 4. If the drone doesn't move, try re-clicking a memberID number or the pre-set locations
 5. Searching the istreetview website will take you to a rough location. Tips are to enter a postcode, cick the enter button, then manually search with the pegman icon to find a location you want to go to. Pegman can be found here where the image is in the bottom right corner of the screen, drag him to the map to open the streetview images:
-![a](images/pegman.png)
+![a](pegman.png)
