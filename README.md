@@ -6,7 +6,7 @@ Requirements:
 - Side Quest
 - Meta Horizon Mobile App
 - Smartphone with Bluetooth and WiFi
-- DronesAnywhereVR APK from the Releases page
+- DronesAnywhereVR APK from the Releases page: https://github.com/DronesAnywhereVR/DroneAnywhereVR/releases/tag/1.0.0
 - USB cable
 
 
