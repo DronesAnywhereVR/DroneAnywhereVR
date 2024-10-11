@@ -37,7 +37,7 @@ Requirements:
 
 1. Head to the Releases page of this website and download the DronesAnywhereVR Selector PC App (exe file)
 2. Run the exe file
-3. The app will open and look like this: ![a](img.png)
+3. The app will open and look like this: ![a](images/img.png)
 4. Open https://istreetview.com/ and find a location you want to go to
 5. Copy the panoID from the street view page by clicking the string
 ![a](images/valid.png)
